@@ -1,4 +1,11 @@
-## Hi there 👋
+
+
+## Jo Kershaw
+
+Research Software Engineer Assistant 
+University of Leeds
+
+
 
 <!--
 **jo-kershaw/jo-kershaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
