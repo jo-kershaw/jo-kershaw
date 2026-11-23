@@ -2,7 +2,7 @@
 
 ## Jo Kershaw
 
-Research Software Engineer Assistant 
+Research Software Engineer
 
 University of Leeds
 
